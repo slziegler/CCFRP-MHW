@@ -1,7 +1,7 @@
 # CCFRP MHW Analyses
 <img src="https://github.com/slziegler/CCFRP-MHW/blob/main/Figures/CCFRPmhw-Figure%201.png" width = "700" />
 
-##### GitHub repository containing data and code accompanying the CCFRP Marine Heatwave manuscript (Ziegler et al. Submitted)
+##### GitHub repository containing data and code accompanying the CCFRP Marine Heatwave manuscript (Ziegler et al. In Review)
 
 ## Title: Marine protected areas, marine heatwaves, and the resiliency of nearshore fish communities
 
