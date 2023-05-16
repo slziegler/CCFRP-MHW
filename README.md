@@ -3,11 +3,13 @@
 
 ##### GitHub repository containing data and code accompanying the CCFRP Marine Heatwave manuscript (Ziegler et al. In Review)
 
-## Title: Marine protected areas, marine heatwaves, and the resiliency of nearshore fish communities
+## Title: Marine protected areas, marine heatwaves, and the resilience of nearshore fish communities
 
 **Authors:** Shelby L. Ziegler, Jasmin M. Johnson, Rachel O. Brooks, Erin M. Johnston, Jacklyn L. Mohay, Benjamin I. Ruttenberg, Richard M. Starr, Grant T. Waltz,  Dean E. Wendt, & Scott L. Hamilton
 
 **Abstract:** Anthropogenic stressors from climate change such as warming temperatures can affect individual species, community structure, and ecosystem function. Marine heatwaves (MHWs) are intense thermal anomalies where water temperature is significantly elevated for five or more days. Climate projections suggest an increase in the frequency and severity of MHWs in the coming decades. While there is evidence that marine protected areas (MPAs) may be able to buffer individual species from climate impacts, there is not sufficient evidence to support the idea that MPAs can mitigate large-scale changes in marine communities in response to MHWs. California experienced an intense MHW and subsequent El Niño Southern Oscillation event from 2014-2016, where temperatures were persistently elevated along the coast. Working with the California Collaborative Fisheries Research Program (CCFRP), we sought to examine changes in rocky reef fish communities at four MPAs and associated reference sites in relation to the MHW. We observed a decline in evenness and diversity both inside and outside MPAs after the MHW and a corresponding shift in fish community structure. Following the MHW, diversity appeared to increase more rapidly inside the MPAs with a trajectory to recover 75% faster than associated reference sites open to fishing. Our results suggest MPAs may not mitigate short-term effects of climatic disturbances, but may contribute to the long-term resiliency of nearshore fish communities. 
+
+**Citation:** Ziegler, S. L., J. M. Johnson, R. O. Brooks, E. M. Johnston, J. L. Mohay, B. I. Ruttenberg, R. M. Starr, G. T. Waltz, D. E. Wendt, and S. L. Hamilton. 2023. Marine protected areas, marine heatwaves, and the resilience of nearshore fish communities. Scientific Reports 13:1405.
 
 **Repository contains the following:**
 
